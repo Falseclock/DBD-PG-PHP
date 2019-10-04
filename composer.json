@@ -27,7 +27,7 @@
     }
   ],
   "require":     {
-    "php":                       "^5.4 || ^7.0",
+    "php":                       "^7.0",
     "psr/simple-cache":          "*",
     "openlss/lib-array2xml":     "^1",
     "falseclock/dbd-php-common": "dev-master",
